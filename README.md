@@ -8,7 +8,7 @@ pip install discord requests
   "bot_token": "BOT_TOKENINIZ",
   "cheatauth_cookie": "CGAUTH_USER_COOKIE_DEGERINIZ",
   "app_id": "VARSAYILAN_APP_ID",
-  "prefix": "!"
+  "prefix": "/"
 }
 [/CODE]
 *(Cookie'yi cheatauth.xyz'de F12 > Application > Cookies altındaki `cgauth_user` alanından alabilirsiniz.)*
