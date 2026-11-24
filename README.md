@@ -1,8 +1,8 @@
-[B]⚙️ Kurulum (3 Adım):[/B]
-1. [B]Python[/B] (3.10+) ve gerekli kütüphaneleri yükleyin:
-[CODE]pip install discord requests[/CODE]
+⚙️ Kurulum (3 Adım):
+1. Python (3.10+) ve gerekli kütüphaneleri yükleyin:
+pip install discord requests
 
-2. [B]config.json[/B] dosyasını açıp bilgilerinizi girin:
+2. config.json dosyasını açıp bilgilerinizi girin:
 [CODE=json]
 {
   "bot_token": "BOT_TOKENINIZ",
@@ -13,6 +13,4 @@
 [/CODE]
 *(Cookie'yi cheatauth.xyz'de F12 > Application > Cookies altındaki `cgauth_user` alanından alabilirsiniz.)*
 
-3. [B]start_bot.bat[/B] dosyasını çalıştırın. Bot hazır!
-
-[HR][/HR]
+3. start_bot.bat dosyasını çalıştırın. Bot hazır!
